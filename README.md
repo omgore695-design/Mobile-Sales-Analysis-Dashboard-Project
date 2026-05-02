@@ -41,4 +41,3 @@ Select Transform Data to update file paths if necessary.
 Use the interactive slicers on the right to explore specific timeframes or
 regions.
 
-Mobile Sales Analysis Dashboard • Professional Project Documentation • 2026
